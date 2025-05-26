@@ -1,0 +1,40 @@
+{
+  "key_generation": [
+    {
+      "timestamp": "2025-05-08T20:27:07.202121",
+      "duration": 0.06505990028381348,
+      "success": true
+    }
+  ],
+  "encryption": [
+    {
+      "timestamp": "2025-05-08T20:27:07.205124",
+      "duration": 0.0020017623901367188,
+      "success": true
+    },
+    {
+      "timestamp": "2025-05-08T20:27:07.206125",
+      "duration": 0.001001596450805664,
+      "success": true
+    }
+  ],
+  "decryption": [
+    {
+      "timestamp": "2025-05-08T20:27:07.205124",
+      "duration": 0.0,
+      "success": true
+    },
+    {
+      "timestamp": "2025-05-08T20:27:07.207127",
+      "duration": 0.0,
+      "success": true
+    }
+  ],
+  "validation": [
+    {
+      "timestamp": "2025-05-08T20:27:07.205124",
+      "duration": 0.0020017623901367188,
+      "success": false
+    }
+  ]
+}

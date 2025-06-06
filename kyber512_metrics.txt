@@ -1,6 +1,6 @@
 Performance Metrics for Kyber512 Algorithm
 -----------------------------------------
-Date: 2025-05-08 23:18:28.582743
-Key Generation Time: 0.000012 seconds
-Encryption Time: 0.000036 seconds
-Decryption Time: 0.000008 seconds
+Date: 2025-05-26 18:51:28.000000
+Key Generation Time: 0.000021 seconds
+Encryption Time: 0.000778 seconds
+Decryption Time: 0.000003 seconds

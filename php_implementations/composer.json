@@ -1,0 +1,20 @@
+{
+    "name": "cryptography/php-implementations",
+    "description": "PHP implementations of various cryptographic algorithms",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "phpseclib/phpseclib": "^3.0",
+        "ext-openssl": "*",
+        "ext-sodium": "*",
+        "ext-gmp": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cryptography\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+} 
